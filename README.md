@@ -67,6 +67,10 @@ Humans are responsible for six basic emotions: happiness, anger, surprise, sadne
 - [The Twelve Pack: Classifying Beer by Images of Label](https://github.com/kknoebel17/Thinkful---Data-Science/blob/master/Final_Capstone/The_Twelve_Pack_ReadMe.md) by Kyle Knoebel. 
 The Twelve Pack is a concept program that aims to classify beers from pictures of the label using Tensorflow/Keras. Images were collected from twelve beers using an iPhone 8 Plus, and the images were fed into a Keras model using the Flow from Dataframe method of the Keras ImageDataGenerator. The final objective of this program is to classify beers from images of the label, and connect to an API to provides more information about the beer such as ingredients, flavor profile, and locations where the beer is sold. 
 
+- [Predicting the effects of U.S. Meat Export Industry on the Environment](https://github.com/ckusheva/Final-Project-Thinkful) by Kristin Kusheva. 
+A time-series analysis of U.S Livestock and Meat Exports worldwide from 1990 to 2021 
+ 
+
 
 
 ## Coursework repositories
